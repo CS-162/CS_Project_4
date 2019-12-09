@@ -1,0 +1,19 @@
+﻿  Bats.cpp
+  Cave.cpp
+C:\Users\austi\OneDrive\Documents\GitHub\CS_Project_4\CS_Project_4\Cave.cpp(46,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\austi\OneDrive\Documents\GitHub\CS_Project_4\CS_Project_4\Cave.cpp(82,19): warning C4018: '<': signed/unsigned mismatch
+  driver.cpp
+C:\Users\austi\OneDrive\Documents\GitHub\CS_Project_4\CS_Project_4\Cave.cpp(126,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Event.cpp
+  Gold.cpp
+  Pit.cpp
+  Room.cpp
+  util.cpp
+  Wumpus.cpp
+C:\Users\austi\OneDrive\Documents\GitHub\CS_Project_4\CS_Project_4\driver.cpp(28,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  229 of 235 functions (97.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CS_Project_4.vcxproj -> C:\Users\austi\OneDrive\Documents\GitHub\CS_Project_4\Release\CS_Project_4.exe
